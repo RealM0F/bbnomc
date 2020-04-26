@@ -1,6 +1,6 @@
 # Changelog
 
-### 25 April, 2020
+## 25 April, 2020
 * Introduces GriefPrevention
     * GriefPrevention directions are given to players on connect.
     * Players start with 500 blocks by default and earn 100 extra every hour they've played (this accounts for idling)
